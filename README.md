@@ -18,7 +18,7 @@ python3 mkvconv.py examplefile.mkv
 
 - **--slow**: Enable re-encoding mode. Use this if you need to compress the file **[Default: Disabled]**
 - **-c, --crf**: Quality (0–51). Lower value means better quality. Works only in --slow mode **Default: 23]**
-- **-p, --preset**: Encoding speed (e.g. fast, medium, slow). Works only in --slow mode **[Default: medium]**
+- **-p, --preset**: Encoding speed (fast, medium, slow). Works only in --slow mode **[Default: medium]**
 
 
 
